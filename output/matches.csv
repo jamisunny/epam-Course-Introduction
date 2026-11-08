@@ -1,0 +1,153 @@
+﻿term,type,matched_text,alias,paragraph,section
+LLM,implicit,large language models,large language models,2,Generative AI Applications in Business
+NLP,implicit,natural language,natural language,2,Generative AI Applications in Business
+LLM,explicit,LLM,LLM,6,1. How the Technology Works
+LLM,implicit,large language model,large language model,6,1. How the Technology Works
+ML,explicit,ML,ML,6,1. How the Technology Works
+ML,implicit,machine learning,machine learning,6,1. How the Technology Works
+ML,implicit,pre-training,pre-training,6,1. How the Technology Works
+Transformer Model,explicit,Transformer model,Transformer model,6,1. How the Technology Works
+Transformer Model,implicit,neural architecture,neural architecture,6,1. How the Technology Works
+NLP,explicit,NLP,NLP,6,1. How the Technology Works
+NLP,implicit,natural language processing,natural language processing,6,1. How the Technology Works
+Token,explicit,Tokens,tokens,7,1. How the Technology Works
+Token,explicit,tokens,tokens,7,1. How the Technology Works
+Token,explicit,tokens,tokens,7,1. How the Technology Works
+Token,explicit,tokens,tokens,7,1. How the Technology Works
+Token,explicit,tokens,tokens,7,1. How the Technology Works
+Token,explicit,tokens,tokens,7,1. How the Technology Works
+Token,explicit,tokens,tokens,7,1. How the Technology Works
+Token,explicit,tokens,tokens,7,1. How the Technology Works
+Token,explicit,tokens,tokens,7,1. How the Technology Works
+Token,explicit,tokens,tokens,7,1. How the Technology Works
+Token,explicit,tokens,tokens,7,1. How the Technology Works
+Token,explicit,tokens,tokens,7,1. How the Technology Works
+Token,explicit,token,token,7,1. How the Technology Works
+Token,explicit,token,token,7,1. How the Technology Works
+Token,implicit,chunk of text,chunk of text,7,1. How the Technology Works
+Embedding,explicit,Embeddings,embeddings,7,1. How the Technology Works
+Embedding,explicit,embeddings,embeddings,7,1. How the Technology Works
+Embedding,explicit,Embeddings,embeddings,7,1. How the Technology Works
+Embedding,explicit,embeddings,embeddings,7,1. How the Technology Works
+Embedding,explicit,embedding,embedding,7,1. How the Technology Works
+Embedding,implicit,multi-dimensional map,multi-dimensional map,7,1. How the Technology Works
+Embedding,implicit,mathematical vector,mathematical vector,7,1. How the Technology Works
+Embedding,implicit,semantic search,semantic search,7,1. How the Technology Works
+Embedding,implicit,vector,vector,7,1. How the Technology Works
+Context window,explicit,Context window,context window,7,1. How the Technology Works
+Context window,implicit,1M tokens,1M tokens,7,1. How the Technology Works
+Context window,implicit,window,window,7,1. How the Technology Works
+Context window,implicit,window,window,7,1. How the Technology Works
+Context window,implicit,128k,128k,7,1. How the Technology Works
+RAG,explicit,RAG,RAG,7,1. How the Technology Works
+RAG,explicit,RAG,RAG,7,1. How the Technology Works
+RAG,implicit,Retrieval-Augmented Generation,Retrieval-Augmented Generation,7,1. How the Technology Works
+RAG,implicit,open-book exam,open-book exam,7,1. How the Technology Works
+RAG,implicit,chunk,chunk,7,1. How the Technology Works
+Hallucinations,explicit,hallucinate,hallucinate,7,1. How the Technology Works
+LLM,explicit,LLM,LLM,7,1. How the Technology Works
+LLM,explicit,LLM,LLM,7,1. How the Technology Works
+LLM,explicit,LLM,LLM,7,1. How the Technology Works
+ML,implicit,learned in training,learned in training,7,1. How the Technology Works
+NLP,implicit,human language,human language,7,1. How the Technology Works
+Embedding,explicit,Embeddings,embeddings,8,1. How the Technology Works
+Embedding,implicit,Vector Database,vector database,8,1. How the Technology Works
+RAG,implicit,Vector Database,vector database,8,1. How the Technology Works
+Embedding,explicit,Embedding,embedding,9,1. How the Technology Works
+RAG,implicit,Retrieval,retrieval,9,1. How the Technology Works
+Token,explicit,Tokens,tokens,10,1. How the Technology Works
+Context window,explicit,Context Window,context window,10,1. How the Technology Works
+LLM,explicit,LLM,LLM,10,1. How the Technology Works
+LLM,explicit,LLM,LLM,11,1. How the Technology Works
+LLM,implicit,foundation models,foundation models,14,1. How the Technology Works
+LLM,implicit,Mistral,Mistral,14,1. How the Technology Works
+LLM,implicit,Mistral,Mistral,14,1. How the Technology Works
+LLM,implicit,Claude,Claude,14,1. How the Technology Works
+LLM,implicit,Gemini,Gemini,14,1. How the Technology Works
+LLM,implicit,Llama,Llama,14,1. How the Technology Works
+RAG,explicit,RAG,RAG,15,1. How the Technology Works
+LLM,implicit,Claude,Claude,15,1. How the Technology Works
+LLM,implicit,Gemini,Gemini,15,1. How the Technology Works
+LLM,implicit,Llama,Llama,15,1. How the Technology Works
+AI assistant,implicit,chatbot,chatbot,15,1. How the Technology Works
+Token,explicit,tokens,tokens,17,1. How the Technology Works
+Token,explicit,tokens,tokens,17,1. How the Technology Works
+Token,explicit,token,token,17,1. How the Technology Works
+Token,implicit,chunks of text/code,chunks of text/code,17,1. How the Technology Works
+Context window,explicit,Context window,context window,17,1. How the Technology Works
+Context window,explicit,Context Window,context window,17,1. How the Technology Works
+Context window,explicit,Context Window,context window,17,1. How the Technology Works
+Context window,explicit,context window,context window,17,1. How the Technology Works
+Context window,explicit,context window,context window,17,1. How the Technology Works
+Context window,implicit,Lost in the Middle,Lost in the Middle,17,1. How the Technology Works
+Context window,implicit,windows,windows,17,1. How the Technology Works
+RAG,explicit,RAG,RAG,17,1. How the Technology Works
+RAG,explicit,RAG,RAG,17,1. How the Technology Works
+RAG,implicit,retrieval layer,retrieval layer,17,1. How the Technology Works
+RAG,implicit,chunking,chunking,17,1. How the Technology Works
+RAG,implicit,chunks,chunks,17,1. How the Technology Works
+RAG,implicit,chunks,chunks,17,1. How the Technology Works
+RAG,implicit,chunks,chunks,17,1. How the Technology Works
+RAG,implicit,chunk,chunk,17,1. How the Technology Works
+Hallucinations,explicit,Hallucinations,hallucinations,17,1. How the Technology Works
+Hallucinations,explicit,hallucinations,hallucinations,17,1. How the Technology Works
+Hallucinations,implicit,convincing but false,convincing but false,17,1. How the Technology Works
+Lossy Compression,explicit,Lossy Compression,lossy compression,17,1. How the Technology Works
+Lossy Compression,implicit,truncated,truncated,17,1. How the Technology Works
+LLM,explicit,LLMs,LLMs,17,1. How the Technology Works
+LLM,explicit,LLM,LLM,17,1. How the Technology Works
+Transformer Model,explicit,Transformer,Transformer,17,1. How the Technology Works
+Transformer Model,implicit,predicts the next most likely token,predicts the next most likely token,17,1. How the Technology Works
+Transformer Model,implicit,attention,attention,17,1. How the Technology Works
+Transformer Model,implicit,attention,attention,17,1. How the Technology Works
+Token,explicit,token,token,18,1. How the Technology Works
+RAG,explicit,RAG,RAG,18,1. How the Technology Works
+RAG,explicit,RAG,RAG,18,1. How the Technology Works
+RAG,explicit,RAG,RAG,18,1. How the Technology Works
+RLHF,explicit,RLHF,RLHF,18,1. How the Technology Works
+RLHF,explicit,RLHF,RLHF,18,1. How the Technology Works
+RLHF,implicit,Reinforcement Learning from Human Feedback,Reinforcement Learning from Human Feedback,18,1. How the Technology Works
+RLHF,implicit,reward hacking,reward hacking,18,1. How the Technology Works
+RLHF,implicit,expert ratings,expert ratings,18,1. How the Technology Works
+NLP,implicit,natural language,natural language,21,"2. Use Case: Financial Services – Knowledge Search, Compliance, and Credit Decisions"
+Embedding,explicit,embeddings,embeddings,23,"2. Use Case: Financial Services – Knowledge Search, Compliance, and Credit Decisions"
+RAG,implicit,Retrieval,retrieval,23,"2. Use Case: Financial Services – Knowledge Search, Compliance, and Credit Decisions"
+RAG,implicit,chunking,chunking,23,"2. Use Case: Financial Services – Knowledge Search, Compliance, and Credit Decisions"
+Hallucinations,implicit,confident but wrong,confident but wrong,23,"2. Use Case: Financial Services – Knowledge Search, Compliance, and Credit Decisions"
+LLM,implicit,Llama,Llama,23,"2. Use Case: Financial Services – Knowledge Search, Compliance, and Credit Decisions"
+Hallucinations,explicit,Hallucinations,hallucinations,25,"2. Use Case: Financial Services – Knowledge Search, Compliance, and Credit Decisions"
+LLM,implicit,GPT-4,GPT-4,27,"2. Use Case: Financial Services – Knowledge Search, Compliance, and Credit Decisions"
+AI assistant,implicit,Assistant,assistant,27,"2. Use Case: Financial Services – Knowledge Search, Compliance, and Credit Decisions"
+AI assistant,implicit,assistant,assistant,27,"2. Use Case: Financial Services – Knowledge Search, Compliance, and Credit Decisions"
+AI-Native Tools,implicit,AI Coding Assistants,AI coding assistants,28,3. Use Case: Software Engineering – AI Coding Assistants
+AI assistant,implicit,Assistants,assistants,28,3. Use Case: Software Engineering – AI Coding Assistants
+AI assistant,implicit,assistant,assistant,30,3. Use Case: Software Engineering – AI Coding Assistants
+Context window,explicit,Context window,context window,32,3. Use Case: Software Engineering – AI Coding Assistants
+Context window,implicit,window,window,32,3. Use Case: Software Engineering – AI Coding Assistants
+AI assistant,implicit,assistant,assistant,32,3. Use Case: Software Engineering – AI Coding Assistants
+ML,implicit,trained on,trained on,34,3. Use Case: Software Engineering – AI Coding Assistants
+AI-Native Tools,implicit,AI pair programmer,AI pair programmer,36,3. Use Case: Software Engineering – AI Coding Assistants
+AI-Native Tools,implicit,GitHub Copilot,GitHub Copilot,36,3. Use Case: Software Engineering – AI Coding Assistants
+AI-Native Tools,implicit,Copilot,Copilot,36,3. Use Case: Software Engineering – AI Coding Assistants
+LLM,explicit,LLMs,LLMs,36,3. Use Case: Software Engineering – AI Coding Assistants
+ML,implicit,trained on,trained on,36,3. Use Case: Software Engineering – AI Coding Assistants
+AI assistant,implicit,Support Agents,support agents,37,4. Use Case: Customer Operations – AI Support Agents
+Token,explicit,token,token,41,4. Use Case: Customer Operations – AI Support Agents
+AI assistant,implicit,AI agents,AI agents,43,4. Use Case: Customer Operations – AI Support Agents
+AI-Native Tools,implicit,Agentforce,Agentforce,45,4. Use Case: Customer Operations – AI Support Agents
+AI-Native Tools,implicit,Copilot,Copilot,45,4. Use Case: Customer Operations – AI Support Agents
+AI assistant,explicit,AI Assistant,AI assistant,45,4. Use Case: Customer Operations – AI Support Agents
+AI assistant,implicit,support agent,support agent,45,4. Use Case: Customer Operations – AI Support Agents
+AI assistant,implicit,AI agent,AI agent,45,4. Use Case: Customer Operations – AI Support Agents
+Hallucinations,explicit,hallucinations,hallucinations,48,5. Major Problems Created by GenAI
+Hallucinations,implicit,fabricate,fabricate,48,5. Major Problems Created by GenAI
+ML,implicit,trained on,trained on,48,5. Major Problems Created by GenAI
+RAG,implicit,retrieval,retrieval,50,6. Summary
+Hallucinations,explicit,Hallucination,hallucination,50,6. Summary
+AI-Native Tools,implicit,GitHub Copilot,GitHub Copilot,50,6. Summary
+AI-Native Tools,implicit,Agentforce,Agentforce,50,6. Summary
+Embedding,explicit,embeddings,embeddings,51,6. Summary
+RAG,explicit,RAG,RAG,51,6. Summary
+AI-Native Tools,explicit,AI-native tools,AI-native tools,51,6. Summary
+RLHF,explicit,RLHF,RLHF,51,6. Summary
+Transformer Model,explicit,Transformer,Transformer,51,6. Summary

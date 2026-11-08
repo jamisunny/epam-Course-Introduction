@@ -1,0 +1,56 @@
+{
+  "_comment": "explicit = the glossary term itself (abbreviation, plural, grammatical forms). implicit = full names of abbreviations, synonyms and phrases that refer to the concept without naming it. Longer phrases are matched first, so 'context window' is not also counted as 'window'. ALL-CAPS entries (RAG, LLM, ML...) are matched case-sensitively, everything else case-insensitively.",
+
+  "Token": {
+    "explicit": ["token", "tokens"],
+    "implicit": ["chunk of text", "chunks of text", "chunks of text/code", "tokenization", "tokenizer"]
+  },
+  "Embedding": {
+    "explicit": ["embedding", "embeddings"],
+    "implicit": ["vector database", "mathematical vector", "vector", "vectors", "semantic search", "multi-dimensional map"]
+  },
+  "Context window": {
+    "explicit": ["context window", "context windows"],
+    "implicit": ["window", "windows", "Lost in the Middle", "128k", "1M tokens"]
+  },
+  "RAG": {
+    "explicit": ["RAG"],
+    "implicit": ["Retrieval-Augmented Generation", "retrieval layer", "retrieval", "vector database", "open-book exam", "chunking", "chunk", "chunks"]
+  },
+  "Hallucinations": {
+    "explicit": ["hallucination", "hallucinations", "hallucinate"],
+    "implicit": ["convincing but false", "confident but wrong", "false output", "fabricate", "fabricated", "fabricates"]
+  },
+  "AI-Native Tools": {
+    "explicit": ["AI-native tool", "AI-native tools"],
+    "implicit": ["AI coding assistant", "AI coding assistants", "AI pair programmer", "GitHub Copilot", "Copilot", "Agentforce"]
+  },
+  "Lossy Compression": {
+    "explicit": ["lossy compression"],
+    "implicit": ["truncated", "condensed", "discarding"]
+  },
+  "LLM": {
+    "explicit": ["LLM", "LLMs"],
+    "implicit": ["large language model", "large language models", "foundation models", "foundation model", "GPT-4", "Claude", "Llama", "Gemini", "Mistral"]
+  },
+  "AI assistant": {
+    "explicit": ["AI assistant", "AI assistants"],
+    "implicit": ["assistant", "assistants", "support agent", "support agents", "AI agent", "AI agents", "chatbot", "chatbots"]
+  },
+  "RLHF": {
+    "explicit": ["RLHF"],
+    "implicit": ["Reinforcement Learning from Human Feedback", "reward hacking", "expert ratings", "human feedback"]
+  },
+  "ML": {
+    "explicit": ["ML"],
+    "implicit": ["machine learning", "pre-training", "trained on", "learned in training"]
+  },
+  "Transformer Model": {
+    "explicit": ["Transformer model", "Transformer", "Transformers"],
+    "implicit": ["neural architecture", "attention mechanism", "attention", "predicts the next most likely token"]
+  },
+  "NLP": {
+    "explicit": ["NLP"],
+    "implicit": ["natural language processing", "natural language", "human language"]
+  }
+}
